@@ -133,7 +133,7 @@ Then open your browser and visit:
 
 **Bhuvanesh S**
 - 📧 bhuvanesh2310766@ssn.edu.in
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-s)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse)
 - 🐙 [GitHub](https://github.com/BHUVANESH-SSN)
 
 ---
